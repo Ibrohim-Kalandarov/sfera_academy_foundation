@@ -28,7 +28,7 @@
  - `<img>` tegining **src** va **alt** atributlari nimani bildiradi?
  - `<img>` bilan bog‘liq muammolar va yechimlar?
  - `<audio>` va `<video>` teglarining asosiy atributlarini sanang.
- - ** src, controls, autoplay, loop, muted** atributlari qanday ishlaydi?
+ - **src, controls, autoplay, loop, muted** atributlari qanday ishlaydi?
  - `<img src="rasm.jpg">` kodda xatolik bormi?
  - Rasmni brauzerda ko‘rinmay qolishiga nima sabab bo‘ladi?
  - `alt` atributining foydasi va ahamiyati nimada?
