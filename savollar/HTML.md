@@ -52,6 +52,7 @@
 
 <details>
 <summary>3-dars(Forma va inputlar)</summary>
+
  - `<table>` strukturasi qanday bo‘ladi?
  - `<tr>` nima va qanday ishlatiladi?
  - `<th>` va `<td>` farqi nima?
