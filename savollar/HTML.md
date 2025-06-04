@@ -14,7 +14,7 @@
   - `<title>` tegining vazifasi nima?
   - `<br>` tegi nima qiladi va qanday ishlatiladi?
   - `<hr>` tegi qanday vazifa bajaradi?
-  - `<br>` va `<p>` o‘rtasidagi farq nima?
+  - `<br>` va `<p>` o‘rtasidagi farq nimada?
   - `<h1>` dan `<h6>` gacha bo‘lgan teglar nima uchun kerak?
 
 </details>
@@ -36,7 +36,7 @@
  - Rasmni brauzerda ko‘rinmay qolishiga nima sabab bo‘ladi?
  - `alt` atributining foydasi va ahamiyati nimada?
  - `<img>` tegiga o‘lcham **(width, height)** qanday beriladi?
- - <audio> tegi nima uchun ishlatiladi?
+ - `<audio>` tegi nima uchun ishlatiladi?
  - **src, controls, autoplay, loop** atributlari qanday ishlaydi?
  - `<audio controls src="track.mp3"></audio>` qanday ishlaydi?
  - `<audio>` tegi uchun brauzerlar qanday formatlarni qo‘llab-quvvatlaydi?
@@ -46,6 +46,30 @@
  - `<video src="clip.mp4" controls></video>` kodini tahlil qiling.
  - `<video>` va` <iframe>` farqi nimada?
  - `<source>` tegini video ichida ishlatishning foydasi nimada?
- - **loop** ** autoplay** ** muted** **poster** **controls** atributlarini farqi nimada?
+ - **loop , autoplay ,  muted , poster , controls** atributlarini farqi nimada?
+
+</details>
+
+<details>
+<summary>3-dars(Forma va inputlar)</summary>
+ - `<table>` strukturasi qanday bo‘ladi?
+ - `<tr>` nima va qanday ishlatiladi?
+ - `<th>` va `<td>` farqi nima?
+ - `<form>` tegi qanday maqsadda ishlatiladi?
+ - `<input>` tegining turlari (type) nimalar?
+ - `<textarea>` bilan `<input type="text">` o‘rtasidagi farq nima?
+ - `<select>` va `<option>` qanday ishlaydi? Misol keltiring.
+ - `<button>` tugmasi qanday ishlaydi va qanday yoziladi?
+ - HTML atribut nima?
+ - **id** va **class** atributlarining farqi nima?
+ - **style** atributi orqali qanday CSS yozish mumkin?
+ - `<th>` degani nima va u qanday farq qiladi `<td>` dan?
+ - Jadvalga ramka (border) qanday beriladi?
+ - Jadvalga qatorlar va ustunlar qanday qo‘shiladi?
+ - `<input type="text">` va `<input type="password">` farqi nima?
+ - **placeholder** va **value** nima?
+ - `input type="radio"` nima qiladi?
+ - `input type="checkbox"` qanday ishlaydi?
+ - Formadagi matn maydoniga oldindan qiymat berish uchun qaysi atribut kerak?
 
 </details>
